@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore custom foler path
+extras/bash_scripts/
+sample_files/
+
 # Distribution / packaging
 .Python
 build/
