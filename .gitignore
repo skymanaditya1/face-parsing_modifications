@@ -9,6 +9,7 @@ __pycache__/
 # Ignore custom foler path
 extras/bash_scripts/
 sample_files/
+extras/
 
 # Distribution / packaging
 .Python
